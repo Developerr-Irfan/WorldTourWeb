@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Pune, Maharashtra"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "+91 9049766533"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "irfanhawaree0844@gmail.com"
+    }
+]
