@@ -1,5 +1,6 @@
 import "./App.css";
 import { AppLayout } from "./components/Layouts/AppLayout";
+import CountryDetails from "./components/Layouts/CountryDetails";
 import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
 import { Country } from "./pages/Country";
@@ -32,6 +33,10 @@ const routes = createBrowserRouter([
       {
         path: "/country",
         element: <Country />
+      },
+      {
+        path: "/country/:id",
+        element: <CountryDetails />
       }
     ]
   }

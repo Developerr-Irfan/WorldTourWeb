@@ -30,7 +30,7 @@ export const Footers = () => {
                 <div className="grid grid-two-cols">
                     <div className="copyright-text">
                         <p>
-                            Copyright &copy; 2024, All Right Reserved
+                            Copyright &copy; 2026, All Right Reserved
                             <NavLink to="https://github.com/Developerr-Irfan" target="_blank">
                                 Developer Irfan
                             </NavLink>
